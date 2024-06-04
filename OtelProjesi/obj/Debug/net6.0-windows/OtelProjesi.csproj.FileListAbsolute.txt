@@ -1,0 +1,144 @@
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.exe
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.deps.json
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.runtimeconfig.json
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.dll
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.pdb
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.csproj.AssemblyReference.cache
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.Properties.Resources.resources
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.csproj.GenerateResource.cache
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.AssemblyInfoInputs.cache
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.AssemblyInfo.cs
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.dll
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\refint\OtelProjesi.dll
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.pdb
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.genruntimeconfig.cache
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\ref\OtelProjesi.dll
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.csproj.CopyComplete
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.gEkrani.resources
+C:\Users\lorenzo\source\repos\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.anaEkran.resources
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.exe
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.deps.json
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.runtimeconfig.json
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.dll
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.pdb
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.csproj.AssemblyReference.cache
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.anaEkran.resources
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.gEkrani.resources
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.Properties.Resources.resources
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.csproj.GenerateResource.cache
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.AssemblyInfoInputs.cache
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.AssemblyInfo.cs
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.csproj.CopyComplete
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.dll
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\refint\OtelProjesi.dll
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.pdb
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.genruntimeconfig.cache
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\ref\OtelProjesi.dll
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.Odalar.resources
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.rezForm.resources
+C:\Users\lorenzo\Desktop\OtelProjesi\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.mBilgileri.resources
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.csproj.AssemblyReference.cache
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.anaEkran.resources
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.gEkrani.resources
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.Odalar.resources
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.Properties.Resources.resources
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.rezForm.resources
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.csproj.GenerateResource.cache
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.AssemblyInfoInputs.cache
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.AssemblyInfo.cs
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.dll
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\obj\Debug\net6.0-windows\refint\OtelProjesi.dll
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.pdb
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.exe
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.deps.json
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.runtimeconfig.json
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.dll
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.pdb
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.csproj.CopyComplete
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.genruntimeconfig.cache
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\obj\Debug\net6.0-windows\ref\OtelProjesi.dll
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2)\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.bilgiEkran.resources
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.exe
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.deps.json
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.runtimeconfig.json
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.dll
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.pdb
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.csproj.AssemblyReference.cache
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.anaEkran.resources
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.bilgiEkran.resources
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.gEkrani.resources
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.Odalar.resources
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.Properties.Resources.resources
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.rezForm.resources
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.csproj.GenerateResource.cache
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.AssemblyInfoInputs.cache
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.AssemblyInfo.cs
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.csproj.CopyComplete
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.dll
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\obj\Debug\net6.0-windows\refint\OtelProjesi.dll
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.pdb
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.genruntimeconfig.cache
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\obj\Debug\net6.0-windows\ref\OtelProjesi.dll
+C:\Users\lorenzo\Desktop\OtelProjesi - Kopya (2) - Kopya\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.logo.resources
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.exe
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.deps.json
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.runtimeconfig.json
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.dll
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\bin\Debug\net6.0-windows\OtelProjesi.pdb
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.csproj.AssemblyReference.cache
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.anaEkran.resources
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.bilgiEkran.resources
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.gEkrani.resources
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.logo.resources
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.Odalar.resources
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.Properties.Resources.resources
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.rezForm.resources
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.csproj.GenerateResource.cache
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.AssemblyInfoInputs.cache
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.AssemblyInfo.cs
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.csproj.CopyComplete
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.dll
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\obj\Debug\net6.0-windows\refint\OtelProjesi.dll
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.pdb
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\obj\Debug\net6.0-windows\OtelProjesi.genruntimeconfig.cache
+C:\Users\lorenzo\Desktop\denemeler\OtelProjesi\obj\Debug\net6.0-windows\ref\OtelProjesi.dll
